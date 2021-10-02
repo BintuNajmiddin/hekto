@@ -47,3 +47,4 @@ pinkSpan.addEventListener('click',function (event){
         section.style.color = 'black';
     }
 });
+
