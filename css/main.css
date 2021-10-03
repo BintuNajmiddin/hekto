@@ -897,7 +897,7 @@ color: #151875;
 }
 
 .inp-div input {
-    widt: 240px;
+    width: 240px;
     border: none;
     outline: none;
     padding: 11px 20px;
@@ -911,7 +911,6 @@ color: #151875;
     position:absolute;
     right: 3px;
 }
-
 .link__name {
     margin: 0 0 32px;
     font-weight: 600;
