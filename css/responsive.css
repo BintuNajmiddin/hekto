@@ -1,0 +1,33 @@
+@media(max-width: 1199px){
+    .container{
+        max-width:965px;
+    }
+    #search{
+        width: auto;
+    }
+    .all{
+        margin-left: 85px;
+        width: 550px;
+    }
+    .collection{
+        padding-top: 248px;
+    }
+    .intro-h{
+        font-size: 40px;
+    }
+    .circle-span{
+
+    }
+}
+@media(max-width: 991px){
+
+}
+@media(max-width:767px){
+
+}
+@media(max-width:565px){
+
+}
+@media(max-width:480px){
+
+}
